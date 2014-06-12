@@ -3,7 +3,7 @@ Upstream-Name: crunch
 Source: http://sourceforge.net/projects/crunch-wordlist/
 
 Files: *
-Copyright: 2004  Mimayin <mimayin@aciiid.ath.cx>
+Copyright: 2004  ? <mimayin@aciiid.ath.cx>
            2008-2014 Jason <bofh28@gmail.com>
 License: GPL-2.0
 
@@ -27,4 +27,3 @@ License: GPL-2.0
  .
  On Debian systems, the complete text of the GNU General
  Public License version 2 can be found in "/usr/share/common-licenses/GPL-2".
-
