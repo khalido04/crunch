@@ -1,5 +1,5 @@
-Description: Sudo removes the Makefile, fix permissions charset.lst
-             file and prevents the installation file COPYNG.
+Description: Remove sudo from the makefile, fix permissions charset.lst
+             file and prevents the installation file COPYING.
 Author: Marcio de Souza Oliveira <m.desouza20@gmail.com>
 Last-Update: 2014-06-09
 Index: crunch-3.6/Makefile

@@ -3,4 +3,4 @@
 %:
 	dh $@ --parallel
 override_dh_installchangelogs:
-		dh_installchangelogs debian/changelog.upstream
+	dh_installchangelogs debian/changelog.upstream

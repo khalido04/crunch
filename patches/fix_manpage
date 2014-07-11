@@ -1,7 +1,6 @@
-Description: Added missing hyphen at line 75
+Description: Added backslash before the hyphen option -s
 Author: Marcio de Souza Oliveira <m.desouza20@gmail.com>
-Last-Update: 2014-06-03
-
+Last-Update: 2014-06-20
 Index: crunch-3.6/crunch.1
 ===================================================================
 --- crunch-3.6.orig/crunch.1
