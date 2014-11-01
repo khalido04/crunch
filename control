@@ -1,9 +1,9 @@
 Source: crunch
 Section: misc
 Priority: optional
-Maintainer: Marcio de Souza Olivera <m.desouza20@gmail.com>
+Maintainer: Marcio de Souza Oliveira <m.desouza20@gmail.com>
 Build-Depends: debhelper (>= 9)
-Standards-Version: 3.9.5
+Standards-Version: 3.9.6
 Homepage: http://sourceforge.net/projects/crunch-wordlist/
 Vcs-Git: git://github.com/marciosouza20/crunch
 Vcs-Browser: http://github.com/marciosouza20/crunch
